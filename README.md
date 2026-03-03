@@ -11,7 +11,7 @@ I'm passionate about coding, solving puzzles, chess, maths, and snooker. Logical
 - Eager to dive deeper into coding, I taught myself Python and built various projects to apply what I learned.  
 - I completed the [Northcoders](https://northcoders.com/) bootcamp, mastering JavaScript and gaining strong web development skills.  
 - I've now spent **a couple of years working extensively with TypeScript**, building a range of front-end and back-end projects. One of my proudest achievements is developing a **commissioned SaaS project** from scratch.  
-- I successfully completed **Advent of Code 2023**, which helped sharpen my problem-solving and algorithmic thinking skills.  
+- I successfully completed **Advent of Code 2023, 24, and 25**, which helped sharpen my problem-solving and algorithmic thinking skills.  
 
 ```javascript
 let codingSkills = {
